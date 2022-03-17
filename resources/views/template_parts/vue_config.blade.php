@@ -19,7 +19,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2021-2022 INCARED</strong>
+    <strong>Hola &mundo; 2022 hola mundo</strong>
     All rights reserved.
  
   </footer>

@@ -57,7 +57,7 @@
           <router-link  to="/rutas"  class="nav-link">
             <i class="nav-icon fas fa-route"></i>
             <p>
-              Rutas
+              lugar
 
             </p>
           </router-link>
@@ -66,7 +66,7 @@
           <router-link  to="/vehiculos"  class="nav-link">
             <i class="nav-icon fas fa-car"></i>
             <p>
-              Vehiculos
+              stock
             </p>
           </router-link>
         </li>
@@ -74,7 +74,7 @@
           <router-link  to="/clientes"  class="nav-link">
             <i class="nav-icon fas fa-user-tie"></i>
             <p>
-              Clientes
+              Entrega
             </p>
           </router-link>
         </li>
@@ -82,7 +82,7 @@
           <router-link  to="/ventas_clientes"  class="nav-link">
             <i class="nav-icon fas fa-shopping-cart"></i>
             <p>
-              Ventas Clientes
+              Estado
             </p>
           </router-link>
         </li>
@@ -99,7 +99,7 @@
               <router-link  to="/reportes/vehiculos"  class="nav-link">
                 <i class="nav-icon fas fa-shopping-cart"></i>
                 <p>
-                  Reportes vehiculos
+                  Reportes de prestamos
                 </p>
               </router-link>
             </li>
